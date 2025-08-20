@@ -1,0 +1,5 @@
+{
+  "name": "AI Architecture Document Generator",
+  "description": "An application that generates a 4+1 view architecture definition document (ADD) based on uploaded requirements, sequence diagrams, and configuration images, using AI.",
+  "requestFramePermissions": []
+}
